@@ -1,0 +1,4 @@
+interface:
+  display_name: "LeetCode 刷题教练"
+  short_description: "规划刷题、严格复盘、记录笔记并安排间隔复习。"
+  default_prompt: "使用 $leetcode-coach 规划今天的 LeetCode 刷题，并检查到期复习题。"
